@@ -1,0 +1,21 @@
+[
+  {
+    "file": "detections_tracking_log_no_telem.csv",
+    "rows": 2,
+    "classes": {
+      "fire": 2
+    },
+    "rows_with_nonzero_coordinates": 0,
+    "matching_attached_screenshots": 0
+  },
+  {
+    "file": "detections_tracking_log.csv",
+    "rows": 22,
+    "classes": {
+      "victims": 19,
+      "fire": 3
+    },
+    "rows_with_nonzero_coordinates": 0,
+    "matching_attached_screenshots": 0
+  }
+]
