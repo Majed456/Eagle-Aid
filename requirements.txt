@@ -1,4 +1,0 @@
-ultralytics==8.4.19
-opencv-python>=4.8,<5
-Flask>=3,<4
-lap>=0.5.12
