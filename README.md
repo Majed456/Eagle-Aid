@@ -1,1 +1,0 @@
-The delivery ZIP includes best.pt. It is ignored by Git by default. Upload separately as a model release if desired, and document applicable model/dataset licensing first. SHA-256 and embedded metrics are in ../docs/model_metadata.json.
